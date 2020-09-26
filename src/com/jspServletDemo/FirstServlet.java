@@ -1,8 +1,8 @@
 package com.jspServletDemo;
 import java.io.IOException;
 import java.io.PrintWriter;
-
 import javax.servlet.*;
+
 public class FirstServlet implements Servlet{
  ServletConfig config;
 	@Override
